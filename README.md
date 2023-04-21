@@ -16,6 +16,8 @@ The Talos Project is a gamified, hands-on curriculum designed to teach the skill
 - Notes and Scales
 - Song Structure
 
+(As far as I'm aware, Sound Design is missing)
+
 Each module is designed to provide a comprehensive and practical learning experience, allowing the learner to develop their skills and become proficient in creating Braindance music.
 
 For example, the Beats module includes exercises such as creating a basic drum pattern, layering multiple rhythms, adding swing and shuffle, and incorporating polyrhythms.
