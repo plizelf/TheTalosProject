@@ -1,0 +1,26 @@
+83: Mix analysis and critique with peers
+- Share your mixes with fellow musicians, producers, or engineers to gather constructive feedback, identify strengths, and address areas for improvement
+- Develop your listening and communication skills by engaging in active discussions focused on mixing and mastering techniques and decisions
+- Incorporate the insights gained from these critiques into your future projects, refining your mixing and mastering approaches
+
+84: Advanced stereo imaging and manipulation
+- Experiment with advanced stereo imaging and manipulation techniques, such as Haas effect processing, micro-shifting, or mid-side stereo expansion
+- Utilize these techniques to achieve greater clarity, separation, and depth in your mix by placing elements strategically within the stereo field
+- Assess the impact of advanced stereo manipulation on mono compatibility, ensuring the mix retains its balance and definition on various playback systems
+
+85: Creative processing using dynamic EQ
+- Explore creative applications of dynamic EQ in your mix, such as frequency-based ducking, precision transient enhancement, or targeted harmonic manipulation
+- Use dynamic EQ as a powerful yet transparent solution for common mix challenges like masking, muddiness, or tonal imbalance
+- Compare the results achieved using dynamic EQ with traditional static EQ or multiband compression, evaluating the benefits and drawbacks of each approach
+
+86: Mixing with sub-harmonic generators and exciters
+- Learn to utilize sub-harmonic generators and exciters to add warmth, fullness, or air to specific mix elements or the mix as a whole
+- Experiment with blending and balancing sub-harmonic content with the original audio, maintaining a natural and well-defined sound
+- Evaluate the impact of these enhancements on the frequency balance, dynamic range, and overall mix quality
+
+87: Advanced strategies for managing mix bus processing
+- Develop an understanding of advanced mix bus processing techniques, including parallel bus compression, mix bus saturation, and mastering-grade EQ or limiting
+- Determine the appropriate balance of mix bus processing, ensuring the mix retains its character and dynamics without becoming over-processed or distorted
+- Experiment with different combinations of mix bus processing, noting how each approach affects the quality, depth, and cohesion of the final mix
+
+By consistently working on these and other advanced mixing and mastering exercises, you'll continue to expand your skillset and gain deeper insights into various concepts and techniques. Persistence, curiosity, and open-mindedness are essential to your growth and success as a music producer and audio engineer. Embrace challenges, explore new techniques, and savor the process of continuous learning and creative evolution in the world of mixing and mastering.

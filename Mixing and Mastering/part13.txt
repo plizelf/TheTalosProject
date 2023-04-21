@@ -1,0 +1,26 @@
+63: Working with vocal harmonies and doubles
+- Practice processing and arranging vocal harmonies, doubles, and backing vocals to create a polished and engaging vocal sound
+- Experiment with different panning, EQ, and dynamic processing techniques to differentiate harmonies and doubles from the lead vocal and avoid frequency clashes
+- Learn when to prioritize clarity and separation versus creating a more cohesive and blended vocal sound
+
+64: Understanding and manipulating the stereo field
+- Develop skills in analyzing and optimizing the stereo field of your mix using tools such as stereo imaging plugins, mid-side processing, or panning automation
+- Experiment with creating a balanced mix that maintains a sense of spaciousness and separation without causing phase issues or disappearing elements on mono playback
+- Apply stereo field manipulation techniques to create a more immersive and professional-sounding mix
+
+65: Utilizing saturation and harmonic enhancement creatively
+- Explore creative uses of saturation, harmonic enhancement, or distortion to add warmth, character, and excitement to various mix elements
+- Investigate the benefits of using subtle saturation on drums, bass, or the mix bus to create cohesion and richness in the mix
+- Evaluate the impact of using saturation and harmonics as creative and expressive tools versus purely technical mix solutions
+
+66: Tips for creating punchy and impactful drums
+- Delve into techniques for creating punchy, impactful drums in your mix, including transient shaping, parallel compression, selective EQ boosting, and creative layering
+- Practice balancing drum elements (kick, snare, hi-hat, etc.) to create a cohesive and energetic drum sound while maintaining space for other mix elements
+- Identify the relationship between drum energy and impact in the context of the overall mix and adjust accordingly to maintain the desired balance
+
+67: Working with unconventional time signatures and rhythms
+- Develop your mixing and mastering skills in the context of unconventional time signatures and complex rhythms, such as polyrhythms or odd-meter grooves
+- Adjust your processing and automation techniques to accommodate unusual rhythmic structures and maintain clarity and balance in the mix
+- Embrace the challenge of balancing rhythmic complexity with a sense of cohesion and groove in your productions
+
+By continually practicing and refining your mixing and mastering skills, you'll develop expertise and adaptability in various advanced techniques. Tackling complex projects and unique musical scenarios will become more manageable, and your ability to deliver polished and professional audio productions will continue to grow. Embrace new challenges, stay curious, and enjoy the never-ending journey of learning and exploration in the world of mixing and mastering.

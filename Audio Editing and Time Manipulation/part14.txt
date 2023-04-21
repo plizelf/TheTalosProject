@@ -1,0 +1,26 @@
+Exercise 91: Remixing and Mashup Techniques in Audio Editing
+- Choose two or more songs or audio tracks that you would like to remix or create a mashup of, and import these tracks into your DAW
+- Use audio editing techniques to extract, rearrange, and layer elements from each track, creating a new and unique composition that combines aspects of the original songs
+- Reflect on the creative challenges and opportunities of remixing and mashup techniques in audio editing, and consider their potential impact on the listening experience and musical innovation
+
+Exercise 92: Foley Sound Replacement and Synchronization
+- Import a video clip or scene from a film that requires foley sound replacement or synchronization (e.g., footsteps, cloth movement, or prop handling)
+- Record, edit, and synchronize new foley sounds to match the visual cues, creating a seamless and believable audio-visual experience
+- Evaluate the effectiveness of your foley sound replacement and synchronization efforts in enhancing the scene's overall immersion and storytelling aspects
+
+Exercise 93: Creative Use of Instant Sampler and Live Sampling Techniques
+- Set up your DAW to enable instant sampling or live sampling, such as using a sampler plugin or built-in sampling features
+- Import or record live audio inputs to be instantly sampled and manipulated, creating new arrangements, loops, or rhythmic patterns from the sampled material
+- Explore the potential applications and creative possibilities of instant sampler and live sampling techniques in music production, live performance, and sound design
+
+Exercise 94: Dynamics-based Distortion Techniques
+- Import an audio file into your DAW, such as a bassline, drum loop, or vocal recording
+- Apply dynamic-dependent distortion techniques by using tools such as multiband distortion, envelope followers, or sidechain processing to selectively distort different parts of the audio signal
+- Assess the impact and creative potential of dynamics-based distortion techniques on the audio's tonal character, presence, and energy
+
+Exercise 95: Emulating Classic Audio Mixing Techniques and Styles
+- Research classic or iconic audio mixing techniques and styles, such as Phil Spector's Wall of Sound or the drum sound on Led Zeppelin's "When the Levee Breaks"
+- Import your own audio tracks or stems into your DAW and apply the researched mixing techniques and styles, focusing on factors such as layering, balance, and spatial positioning in the mix
+- Reflect on the effectiveness and appeal of emulating classic mixing techniques in modern audio production, and consider how older techniques can still be relevant in contemporary mixes
+
+Continue to practice these exercises and delve deeper into the world of audio editing and time manipulation. Keep experimenting with new techniques, tools, and concepts to evolve and refine your abilities in audio production. Stay inspired and enjoy the creative journey!

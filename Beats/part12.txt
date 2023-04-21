@@ -1,0 +1,51 @@
+Exercise 81: Utilize pitch bends in melodic drum elements
+- Create a drum pattern with melodic percussive elements or tuned drums
+- Apply pitch bend automation to selected drum elements in your pattern, generating melodic movement within the rhythm
+- Experiment with the duration and range of pitch bends to create interesting rhythmic and melodic textures
+
+Exercise 82: Use a gate effect for creative drum patterns
+- Develop a drum pattern and apply a gate effect on specific percussion elements, such as cymbals, shakers or synth pads
+- Use the gate effect to chop up or tighten sustained sounds, creating unique rhythmic patterns and textures
+- Experiment with different gate settings or rhythmic patterns for a varied and intricate drum pattern
+
+Exercise 83: Emulate percussion from different musical cultures
+- Study percussion instruments, patterns, and rhythms from various musical cultures and regions (e.g., African, Asian, or Latin American)
+- Recreate the instruments and rhythm patterns characteristic of a particular culture in your drum pattern using samples or synthesized sounds
+- Explore blending these cultural rhythms with modern electronic percussion and drum styles to create a unique cross-genre beat
+
+Exercise 84: Create a breakdown and build-up in your drum pattern
+- Develop a drum pattern that features a breakdown and build-up section, commonly found in electronic dance music and other genres
+- Remove or reduce drum elements during the breakdown, then gradually reintroduce them during the build-up to create tension and anticipation
+- Experiment with additional effects, risers, or drop elements to enhance the impact of the build-up section
+
+Exercise 85: Create a drum pattern using subtractive composition
+- Compose a dense and busy drum pattern with multiple rhythmic layers and elements
+- Subtract or mute specific drum elements in different sections of the pattern, to create a more dynamic and varied drum pattern
+- Experiment with varying degrees of subtraction, focusing on the balance between rhythmical complexity and musicality
+
+Exercise 86: Explore parallel processing for drum mixing
+- Create a drum pattern with various drum elements (kick, snare, hi-hat, etc.)
+- Route the drum elements to a parallel processing chain (such as compression, distortion, or other effects) while preserving the dry/original signal
+- Experiment with blending the dry signal with the processed signal to achieve punchy, powerful, or textured drum sounds
+
+Exercise 87: Develop a drum pattern using unconventional swing settings
+- Compose a drum pattern that incorporates non-traditional swing or groove settings, such as irregular or irregular syncopation
+- Experiment with varying levels of swing or displacement, to create a rhythm that is both unique and engaging
+- Analyze how the unconventional swing settings impact the overall groove, dynamics, and rhythmic interaction of the drum pattern
+
+Exercise 88: Minimalism and repetition in drum patterns
+- Develop a minimalistic drum pattern that revolves around a single rhythmic motif or a small set of drum elements
+- Use repetition and subtle variations to create a hypnotic, entrancing groove in your drum pattern
+- Explore how minimalism can create space for other musical elements in your arrangement, such as melodies or basslines
+
+Exercise 89: Utilize stereo imaging in drum patterns
+- Design a drum pattern and experiment with the stereo image (panning and width) of each drum element, enhancing the spatial interest in the pattern
+- Apply stereo imaging techniques like the Haas effect, Mid/Side processing, or panning automation across different drum elements
+- Evaluate the impact of the stereo image manipulation on the perception of depth, width, and space within your drum pattern
+
+Exercise 90: Create a drum pattern by layering drum loops
+- Obtain or create multiple drum loops (legally and respecting copyrights), each with a distinct rhythmic pattern or texture
+- Layer these drum loops to create a unique, complex beat by aligning and manipulating them in your DAW while considering timing, phase, and audio bleed issues
+- Experiment with different combinations of loops and levels, blending the rhythmic elements to create a unified and intricate drum pattern
+
+These exercises deepen your exploration of diverse rhythmic techniques and sound manipulation, guiding you toward innovative beats and developing your unique, creative approach to drum programming. As you continue to practice, experiment, and learn from various music styles, your beat-making prowess will continue to grow, setting you apart as a music producer.

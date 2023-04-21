@@ -1,0 +1,26 @@
+Exercise 96: Creative Use of Vintage Audio Gear Emulation
+- Research classic or vintage audio gear, such as the Fairchild 670 compressor, the Pultec EQP-1A equalizer, or the Echoplex tape delay
+- Import an audio file into your DAW and apply emulation plugins or tools that replicate the characteristics and functions of the original vintage gear
+- Evaluate the sonic impact and creative potential of emulating vintage audio gear in your productions, considering the unique character, warmth, and texture they can provide
+
+Exercise 97: Audio Processing for Virtual Reality and Augmented Reality
+- Choose a virtual reality (VR) or augmented reality (AR) project that requires spatial audio design, such as a 360-degree video or an interactive 3D environment
+- Import audio files or create new sound elements using audio editing techniques that suit the 3D audio environment, such as binaural processing, object-based audio, or ambisonics
+- Analyze the challenges and creative possibilities offered by audio editing for virtual reality and augmented reality projects, and consider how spatial audio enhances the overall immersive experience
+
+Exercise 98: Integrating Resynthesis Techniques in Audio Editing
+- Import an audio file into your DAW, and process it using resynthesis techniques, such as additive synthesis, spectral resynthesis, or granular resynthesis
+- Create new sounds, textures, or harmonic content from the transformed audio file, maintaining a connection to the original source material
+- Reflect on the creative potential of resynthesis techniques in audio editing, and explore how they can lead to innovative and experimental sound design or compositions
+
+Exercise 99: Incorporating Machine Learning and AI Tools in Audio Editing
+- Research and select a machine learning or artificial intelligence (AI) tool designed for audio editing or processing, such as audio source separation, generative sound design, or adaptive audio manipulation
+- Import one or more audio files into your DAW and apply the chosen AI tool's features to generate new audio elements, transformations, or enhancements
+- Contemplate the role and potential impact of machine learning and AI tools in audio editing and consider how they can contribute to or influence creative decisions and workflows
+
+Exercise 100: Developing Custom Audio Processing Tools and Plug-ins
+- Learn the basics of audio programming languages or platforms, such as Max/MSP, Pure Data, or Faust, to create custom audio processing tools or plug-ins
+- Design and program a simple audio processing tool or plug-in tailored to your specific audio editing needs, such as a unique filter, compressor, or audio randomizer
+- Reflect on the learning process and creative possibilities offered by the development of your custom audio tools, and consider how they can enhance and expand your audio editing capabilities
+
+By persistently practicing these exercises and expanding your audio editing and time manipulation skills, you'll continue to grow as an audio professional. Maintain a curious attitude throughout your learning process, and be open to exploring new techniques, platforms, and innovative advancements within the audio production field. Cherish the creative journey and strive for continued growth and mastery.

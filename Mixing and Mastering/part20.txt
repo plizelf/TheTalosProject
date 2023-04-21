@@ -1,0 +1,16 @@
+98: Dynamic range preservation and control
+- Develop techniques for preserving and controlling the dynamic range in your mix while maintaining impact, balance, and cohesion among elements
+- Experiment with different forms of dynamic processing, such as parallel compression, transient enhancement or reduction, and dynamic EQ
+- Evaluate how the dynamic range affects the mix's overall perceived quality, loudness, and emotional impact, striving to find the right balance for each project
+
+99: Implementing advanced dithering techniques
+- Expand your knowledge of dithering, understanding the use of various types and settings, such as noise shaping, bit depth reduction, or different dither algorithms
+- Apply appropriate dithering techniques during the mastering or final bounce process, ensuring the best possible audio quality and minimum noise artifacts
+- Evaluate the impact of different dithering techniques and settings on your final master, and choose the optimal type for each format or distribution platform
+
+100: Creative automation for mix energy and motion
+- Master creative automation techniques to enhance the energy and motion within your mix, such as filter sweeps, tremolo, stereo imaging modulation, or rhythmic gating
+- Identify mix elements that can benefit from creative automation, adding depth, excitement and engagement for the listener
+- Balance the use of creative automation with maintaining the overall clarity and balance of the mix
+
+Continuing to work through these exercises, you'll keep expanding your knowledge and refining your expertise in various advanced mixing and mastering techniques, from dynamic range preservation to advanced dithering and creative automation. As you persistently practice and face new challenges, your skills and experience will grow, allowing you to tackle increasingly sophisticated projects, adapt to different musical scenarios, and deliver high-quality, professional audio productions. Embrace challenges, stay curious, and relish the creative journey of continued exploration in mixing and mastering.

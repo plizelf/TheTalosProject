@@ -1,0 +1,51 @@
+Exercise 61: MIDI Reharmonization Techniques
+- Learn about reharmonization, which involves replacing or altering the original harmonies of a melody or progression
+- Practice reharmonization techniques in your IDM compositions, using alternative chords or complex harmonies to transform the emotional or tonal character of your MIDI tracks
+- Reflect on how reharmonization impacts the IDM aesthetic, and consider the role it plays in creating unique and innovative harmonic landscapes
+
+Exercise 62: MIDI Groove Templates and Humanization
+- Explore groove templates, which can be used to impose specific rhythmic characteristics onto your MIDI sequences
+- Apply groove templates or humanization techniques to your IDM compositions, creating a more organic, dynamic feel within your programmed MIDI patterns
+- Examine the influence of groove templates and humanization on the overall vibe of your IDM productions, and consider their importance in avoiding overly quantized, robotic-sounding patterns
+
+Exercise 63: MIDI Layered Polyphonic Sequences
+- Study the concept of creating layered polyphonic sequences, which involve the simultaneous use of multiple melodic or harmonic voices in a MIDI pattern
+- Implement layered polyphonic sequences in your IDM compositions, experimenting with different combinations of voices, textures, or rhythmic interplay
+- Reflect on the role of layered polyphonic sequences in IDM music production, exploring how they contribute to overall complexity and depth
+
+Exercise 64: MIDI Micro-Looping Techniques
+- Learn how to create micro-loops with MIDI, focusing on the repetition of very short sequences or individual notes with various rhythmic variations
+- Apply micro-looping techniques in your IDM compositions, generating unique rhythmic patterns, textures, or melodic motifs using MIDI repetition
+- Analyze the impact of micro-looping on the IDM sound and consider how these techniques can add intrigue and experimental elements to your productions
+
+Exercise 65: MIDI Clock Sync and External Hardware Integration
+- Investigate methods for synchronizing your DAW's MIDI clock to external hardware devices or other software, enabling precise timing coordination between various elements
+- Incorporate external hardware devices, such as drum machines, synthesizers or sequencers, into your IDM compositions by syncing to your DAW's MIDI clock
+- Evaluate the benefits of integrating external hardware into your IDM workflow, considering the impact on your creative process, sound design capabilities, and overall production quality
+
+Exercise 66: MIDI Polyphonic Expression (MPE) Techniques
+- Explore the concept of MIDI Polyphonic Expression (MPE), which allows for expressive control over individual notes within a single MIDI channel
+- Implement MPE techniques in your IDM compositions using compatible software instruments, achieving greater control over pitch, timbre, and other expressive parameters on a per-note basis
+- Examine the potential of MPE techniques in IDM music production and consider how they enable more expressive and dynamic MIDI performances
+
+Exercise 67: MIDI Note Repeat and Stutter Techniques
+- Learn about note repeat and stutter techniques, which involve rapid-fire repetition of individual notes or short sequences in your MIDI patterns
+- Apply note repeat and stutter techniques to your IDM compositions, experimenting with different rhythmic subdivisions, rates of repetition, and automation
+- Reflect on how note repeat and stutter techniques can add energy, interest, and complexity to your IDM productions
+
+Exercise 68: MIDI Sus (suspension) Techniques
+- Study the concept of suspensions in music, which involve the temporary prolongation of a note to create harmonic tension
+- Apply suspension techniques within your IDM compositions, using MIDI notes to create suspensions and resolutions within your melodic or harmonic patterns
+- Explore the emotional impact of suspensions in your IDM productions and how they can contribute to an increased sense of musical tension and release
+
+Exercise 69: MIDI Splitting and MIDI Note-Routing Techniques
+- Investigate methods for splitting MIDI data across different tracks or instruments, and explore techniques for routing MIDI notes to specific destinations within a DAW or software instrument
+- Experiment with MIDI splitting and note-routing techniques in your IDM compositions, utilizing these methods to create intricate, multi-layered arrangements
+- Consider the potential benefits of implementing MIDI splitting and note-routing techniques in your IDM workflow, and how these strategies can help achieve more complex and versatile productions
+
+Exercise 70: MIDI Chord Clusters and Tone Clusters
+- Learn about chord clusters and tone clusters, which are dense groupings of notes that create highly dissonant and experimental harmony
+- Implement chord or tone clusters in your IDM compositions, experimenting with different voicings and placements to create unconventional harmonic textures
+- Analyze the impact of chord and tone clusters on the IDM aesthetic and explore how these techniques can contribute to the genre's experimental nature
+
+Continuing to explore a wide range of MIDI programming and editing techniques through these exercises will help you advance your skills within IDM music production. Keep pushing boundaries, experimenting with new ideas, and expanding your creative horizons as you develop your unique approach to IDM.

@@ -1,0 +1,26 @@
+73: Creating contrast and dynamics in your mix
+- Develop techniques for creating contrasts and dynamics within your mix, such as automating volume, EQ, and effects throughout different song sections
+- Explore how contrast and dynamics contribute to the emotional impact and engagement of your mix—the storytelling aspect of music production
+- Analyze reference mixes for their use of dynamics and contrast, and apply the insights gained to your own projects
+
+74: Mixing in mono for better translation
+- Practice mixing in mono—collapsing your mix into a single channel—and developing techniques for ensuring your mix translates well across various playback systems
+- Focus on achieving clarity, balance, and separation in mono, particularly for key mix elements such as vocals, bass, and drums
+- Use this mono mixing perspective to make better mixing decisions when returning to stereo, achieving a mix that translates better across different sound systems
+
+75: Advanced bus processing
+- Explore advanced bus processing techniques, such as parallel compression, mid-side processing, or frequency-dependent compression on group buses or submixes
+- Experiment with creative bus processing combinations to add character and cohesiveness to groups of instruments or the overall mix
+- Assess the impact of creative bus processing on clarity, balance, and the overall sonic quality of your mix
+
+76: Incorporating analog warmth and character
+- Familiarize yourself with analog emulation plugins that can impart warmth, character, or non-linearity to your digital mixes, such as tape, console, or tube emulations
+- Experiment with adding subtle analog warmth and character to individual tracks, buses, or even the mix bus
+- Analyze the impact of these analog emulations on the overall mix and identify areas where the added character improves or detracts from the mix's quality
+
+77: Adaptive mixing approach
+- Develop the skill of adapting your mixing approach based on the unique requirements of each project, such as live recordings, electronic productions, or orchestral arrangements
+- Learn to identify the specific challenges and requirements of each type of project and apply the appropriate mixing techniques accordingly
+- Enhance your music production flexibility by effectively tailoring your mixing methodologies to accommodate various recording styles, genres, or project goals
+
+By working through more advanced exercises, you'll deepen your mixing and mastering expertise while conquering even more complex projects and diverse musical challenges. Embrace the learning process, trust in your growing abilities, and continue to push the boundaries of your knowledge and experience in the world of mixing and mastering. Stay motivated, remain curious, and revel in your creative journey.

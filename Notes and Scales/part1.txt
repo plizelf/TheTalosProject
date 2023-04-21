@@ -1,0 +1,33 @@
+Great! Here are exercises designed to practice and test your understanding of the Notes and Scales chapter from Ableton's Learning Music:
+
+[x] Exercise 1: Exploring Major and Minor Scales
+- Select a root note (e.g., C, D, G#, etc.)
+- Create a simple melody in a major key, using the major scale starting from the chosen root note
+- Now, switch to a minor scale using the same root note and adapt the melody to fit the minor scale
+
+[x] Exercise 2: Scale Transposition
+- Create a melody using any major or minor scale
+- Transpose the entire melody to a different root note, maintaining the same pattern of intervals
+- Compare the two versions of the melody and observe how changing the root note impacts the overall feel
+
+[x] Exercise 3: Finding Relative Major and Minor Scales
+- Select a major scale and create a short melody using the scale
+- Find the relative minor scale for the selected major scale and create a new melody using the relative minor scale
+- Analyze how the melodies relate and share the same set of notes, despite their different root notes and qualities
+
+[x] Exercise 4: Create Chord Progressions
+- Choose a major or minor key
+- Build a 4-chord progression using diatonic chords (chords that only use the notes from the chosen scale)
+- Create a simple melody or bassline that follows the chord progression
+
+[x] Exercise 5: Experiment with Modes
+- Choose a mode of the diatonic scale (e.g., Dorian, Mixolydian, or Lydian mode)
+- Compose a melody using the chosen mode as your basis
+- Analyze how using the mode creates a different tonal quality compared to a standard major or minor scale
+
+[x] Exercise 6: Pentatonic Scales
+- Select a root note and create a pentatonic scale (major or minor) starting from that note
+- Compose a melody using the chosen pentatonic scale, focusing on the creative possibilities provided by the smaller set of notes
+- Consider incorporating pentatonic melodies into your drum patterns or chord progressions for added interest and variation
+
+These exercises cover essential aspects of the Notes and Scales chapter, helping you practice and test your understanding of scales, modes, and harmony concepts. Developing a solid grasp of these concepts will enable you to create more interesting and diverse melodies, harmonies, and basslines in your music productions.

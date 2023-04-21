@@ -1,0 +1,26 @@
+58: Dynamic reverb and delay
+- Experiment with using sidechain compression or automation to make time-based effects like reverb and delay more dynamic within your mix
+- Investigate the benefits of having reverb and delay respond to the rhythm or intensity of the source material, creating a more lively and engaging mix
+- Apply dynamic time-based effects to vocals, guitars, or other instruments where space and depth should enhance, rather than overshadow, the primary musical elements
+
+59: Mix rescue techniques
+- Develop strategies for fixing problematic mixes or salvaging poorly recorded tracks by using corrective EQ, multiband compression, creative re-amping, and other restorative techniques
+- Analyze the problem areas in the mix, create a plan of action, and apply the required techniques to bring the mix back to life
+- Practice mix rescues on existing projects or by collaborating with other musicians and producers on their problem mixes
+
+60: Ear training for mixing and mastering
+- Implement daily ear training exercises to develop your critical listening skills, with a focus on identifying frequency bands, compression characteristics, and stereo field imbalances
+- Use online ear training resources, plugins, or mobile apps specifically designed to improve audio engineers' listening skills
+- Incorporate regular ear training practice into your workflow and notice the improvement in your mixing and mastering decisions over time
+
+61: Creative automation techniques
+- Consider using creative automation techniques beyond volume and panning, such as automating filter sweeps, effect sends, or morphing between different plugin presets
+- Challenge yourself to create more movement and interest within your mix by automating various parameters of effects like chorus, flanger, or phaser
+- Evaluate the benefits of creative automation in enhancing the overall mix quality, engaging the listener, and contributing to the storytelling aspect of music production
+
+62: Subtractive mixing approach
+- Employ a subtractive mixing approach where you focus on cutting or reducing problematic frequencies and minimizing excessive boosts or additions in individual tracks or the overall mix
+- Experiment with using subtractive EQ, dynamic reduction, and selective editing techniques to create space, clarity, and balance in the mix
+- Compare the outcome of a subtractive mixing approach with a more traditional additive approach, taking note of the differences in mix quality, headroom, and overall tonality
+
+By continuing to expand and practice your mixing and mastering skills through these exercises, you will gain more experience and a deeper understanding of various advanced techniques in audio production. Each exercise will help you increase your proficiency and confidence in tackling complex projects, adapting to diverse musical scenarios, and delivering polished and professional-sounding audio productions. Keep embracing new challenges, maintain curiosity, and stay dedicated to growth and exploration in the world of mixing and mastering.

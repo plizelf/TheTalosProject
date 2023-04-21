@@ -1,0 +1,26 @@
+Exercise 86: Advanced Audio Editing for Podcast Production
+- Import a podcast recording, interview, or spoken word audio file into your DAW
+- Apply advanced audio editing techniques, such as noise reduction, EQ adjustments, dynamic processing, and pacing edits, to polish and enhance the podcast audio quality
+- Evaluate the role of audio editing techniques in podcast production, and appreciate the importance of proper audio treatment in maintaining listener focus and engagement
+
+Exercise 87: Audio Automation for Sound Effects and Audio FX
+- Import various audio files, such as sound effects or audio tracks containing only audio effects (e.g., reverbs or delays), into your DAW
+- Use creative automation techniques, like parameter sweeps or LFO modulation, to transform and manipulate the audio files in real-time
+- Explore the potential applications of audio automation for sound effects and audio FX, and consider how they can contribute to innovative audio experiences in various contexts (e.g., film, games, or music production)
+
+Exercise 88: Creating Audio Mosaics with Granular Processing
+- Load an audio file, such as a musical sequence or speech recording, into your DAW
+- Use granular processing techniques to create an audio mosaic, a new composition built from the grains, fragments, and layers of the original audio, while maintaining some resemblance to the source material
+- Reflect on the creative possibilities and outcomes of crafting audio mosaics through granular processing and consider how this approach can foster innovation and experimentation in audio production
+
+Exercise 89: Spatial Ambience Emulation in Audio Editing
+- Import an audio file or multiple audio tracks, such as a dialogue exchange, into your DAW
+- Use audio editing techniques, like reverb or delay processing with specific impulse responses or settings, to create a realistic emulation of a chosen spatial ambience or environment for your audio scene (e.g., a concert hall or a crowded cafe)
+- Assess the effectiveness of your spatial ambience emulation in contributing to the overall sonic image, and consider application scenarios in film, game design, or music production.
+
+Exercise 90: Reverse Engineering Audio Productions
+- Select a professionally produced audio track or an interesting sound effect to analyze and study
+- Use audio editing techniques, tools, and creative approaches to try and recreate or reverse-engineer the chosen audio production, focusing on elements like layering, processing, spatial positioning, and overall structure
+- Reflect on the acquired knowledge, insights, and techniques from reverse engineering audio productions, and consider how to apply them in your own audio projects
+
+By practicing these exercises and exploring further into audio editing and time manipulation, you'll continue to grow your skills and expertise in audio production. Be curious, stay patient with the learning process, and never stop experimenting. Enjoy the creative journey and keep pushing the boundaries of possibility.

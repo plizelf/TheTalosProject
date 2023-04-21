@@ -1,0 +1,51 @@
+Exercise 71: Transform melody or harmony into a drum pattern
+- Choose a melody or chord progression, and analyze its rhythmic structure
+- Create a drum pattern inspired by the melody or chord progression, emulating the note durations, accents, and phrasings
+- Experiment with interlocking the drum pattern and the original melody or harmony within your composition
+
+Exercise 72: Drum patterns with pitch automation
+- Develop a drum pattern using pitch-sensitive elements (e.g., toms, pitched percussion, melodic drum samples)
+- Apply pitch automation to specific drum elements or segments, creating an evolving melodic contour within the pattern
+- Explore how the pitch automation adds new dimensions and melodic interest to your drum pattern
+
+Exercise 73: Create a drum pattern in a compound meter
+- Set your project's time signature to a compound meter like 6/8, 9/8 or 12/8
+- Compose a drum pattern that embraces the characteristics of the compound meter, focusing on strong and weak beats
+- Experiment with transitions and rhythmic variations that highlight the unique groove of the compound meter
+
+Exercise 74: Experiment with drum patterns using microtonal tuning
+- Explore microtonal scales or tunings and use them to create pitched drum patterns or tuned percussion elements
+- Develop a beat that incorporates these microtonal elements, blending them with traditional 12-tone percussion and drum elements
+- Analyze how microtonality adds new harmonic colors and unconventional rhythms to your drum pattern
+
+Exercise 75: Drum patterns inspired by nature or real-world events (Part II)
+- Sample or generate drum sounds based on natural events or occurrences (e.g. footsteps, leaves rustling, water dripping)
+- Create a drum pattern using these samples to generate a sense of connection with the natural world or the original sampled event
+- Explore layering these natural samples with traditional drum elements to create a unique and distinctive drum pattern
+
+Exercise 76: Tempo and time signature modulation
+- Develop a drum pattern that modulates between different time signatures and tempos simultaneously (e.g., 7/8 at 140 BPM to 5/4 at 120 BPM)
+- Create smooth transitions between changes in time signature and tempo, ensuring the overall pattern retains a constant sense of groove and musical flow
+- Explore complex rhythm modulations to challenge your creativity and the listener's attention
+
+Exercise 77: Create a drum pattern based on a specific song structure
+- Choose a specific song structure (e.g., verse-chorus-verse or AABA)
+- Develop multiple drum patterns tailored for each section of the song structure, considering energy level, accents, and syncopation in each part
+- Arrange the drum patterns with seamless transitions across the song structure, showcasing diversity and progression in your beat-making
+
+Exercise 78: Develop a drum pattern using an audio-to-MIDI converter
+- Use a DAW's audio-to-MIDI conversion feature (or a third-party plugin) to analyze an audio recording of a rhythm, melody, or harmony
+- Convert the audio recording to a MIDI clip and assign drum sounds to the corresponding MIDI notes
+- Edit and refine the MIDI-output drum pattern by adding or removing elements, ensuring the rhythm and groove are maintained and enhanced
+
+Exercise 79: Create a drum pattern using unconventional audio effects
+- Design a drum pattern and apply audio effects (such as granular synthesis, extreme glitching, or audio morphing) not typically associated with drum sounds
+- Focus on preserving a clear sense of groove and rhythm, even as the audio effects push your drum elements into uncharted territory
+- Enhance your beat with a unique palette of sounds that sets it apart from conventional drum patterns
+
+Exercise 80: Develop a drum pattern using mixed meters
+- Create a drum pattern that alternates between two or more different time signatures, such as 4/4 and 7/8
+- Experiment with varying drum elements and accents in each meter, highlighting the unique character of each time signature
+- Focus on maintaining a consistent rhythm and groove across the alternating meters and transitions
+
+By completing these advanced exercises, you'll sharpen your beat-making skills and creative abilities, exploring a wide variety of rhythmic techniques and concepts. Continuous experimentation and learning from different musical styles will help you push your music production boundaries and develop a unique approach to crafting drum patterns.

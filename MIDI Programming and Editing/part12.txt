@@ -1,0 +1,51 @@
+Exercise 91: MIDI Pedal Tones and Ostinato Techniques
+- Learn about pedal tones and ostinato techniques, which involve the use of sustained notes or persistent repeated patterns as a foundation for harmonic or rhythmic development
+- Incorporate pedal tones or ostinato patterns in your IDM compositions using MIDI programming, creating a sense of stability, tension, or driving motion within your tracks
+- Reflect on how the use of pedal tones and ostinato techniques can influence the structure and emotional impact of your IDM compositions
+
+Exercise 92: MIDI Extended Techniques for Instrument Emulation
+- Research various extended techniques used by musicians on acoustic instruments, such as harmonics, prepared piano, percussive bowing, or multiphonics
+- Emulate extended techniques within your IDM compositions using MIDI programming and sound design, exploring how these methods can add unconventional textures and timbres to your music
+- Analyze the role of extended techniques in IDM music production and consider how they expand the capabilities of MIDI instruments and enrich the sonic palette
+
+Exercise 93: MIDI Rhythm and Melody Inversion Techniques
+- Explore inversion techniques for both rhythm and melody, which involve reversing the order or direction of existing patterns, turning them "upside-down" or "inside-out"
+- Apply rhythm and melody inversion techniques in your IDM compositions using MIDI programming, creating new patterns or sequences that challenge conventional structures or expectations
+- Examine the impact of inversion techniques on the character and development of your IDM compositions, and how they contribute to the genre's experimental nature
+
+Exercise 94: MIDI Implementation of Golden Ratio and Fibonacci Sequence
+- Investigate the principles of the Golden Ratio and Fibonacci Sequence as they can apply to music composition, focusing on their potential for generating unique patterns or structures
+- Create IDM compositions using MIDI programming techniques based on the Golden Ratio or Fibonacci Sequence, integrating their properties into your melodic, harmonic, or rhythmic patterns
+- Assess the effectiveness of using the Golden Ratio or Fibonacci Sequence in IDM music and consider how these methods can add a level of mathematical intrigue and beauty to your compositions
+
+Exercise 95: MIDI Channel-Specific Effects for Sound Manipulation
+- Learn about different MIDI channel-specific effects and processing techniques, such as applying unique compression, distortion, or filtering settings to individual channels or groups of MIDI notes
+- Use channel-specific effects to manipulate the sound of your IDM compositions, achieving diverse sonic results and showcasing the versatility of MIDI processing
+- Consider the potential benefits of incorporating channel-specific effects into your IDM music production workflow and how these techniques can make your tracks stand out
+
+Exercise 96: MIDI Encoding and Decoding Techniques
+- Research MIDI encoding and decoding techniques, which involve converting MIDI data into alternative formats or systems for creative manipulation, and then back to MIDI for further processing
+- Implement MIDI encoding and decoding methods in your IDM compositions, discovering new ways to manipulate and transform your MIDI patterns and sequences
+- Reflect on the potential of MIDI encoding and decoding techniques to inspire innovative IDM compositions and challenge conventional approaches to music production
+
+Exercise 97: MIDI Expression Pedal and Footswitch Integration
+- Explore the use of expression pedals and footswitches as MIDI controllers, enabling hands-free control of various parameters, performance features, or automation
+- Incorporate MIDI expression pedals and footswitches into your IDM compositions, experimenting with different assignments or integration possibilities to enhance your interactivity and expression
+- Evaluate the benefits of using expression pedals and footswitches in IDM music production and performance, and how these tools can provide a physical and engaging approach to MIDI expression
+
+Exercise 98: MIDI Note Fragmentation and Granulation Techniques
+- Investigate the concept of note fragmentation and granulation, which involve breaking down individual notes in your MIDI sequences into smaller components or grains
+- Experiment with note fragmentation and granulation techniques in your IDM compositions, creating intricate or granular patterns and textures that go beyond conventional MIDI programming
+- Examine the role of note fragmentation and granulation techniques in IDM music and consider how they can contribute to the genre's intricate and experimental nature
+
+Exercise 99: MIDI Octatonic Scale and Alternative Scales
+- Study the characteristics of the octatonic scale and other alternative scales, such as whole-tone, modes of limited transposition, or non-Western scales
+- Create IDM compositions using the octatonic scale or alternative scales in your MIDI programming, developing unique and unconventional melodic and harmonic structures
+- Analyze the impact of the octatonic scale and alternative scales on your IDM compositions and consider how their usage can contribute to a distinct and innovative sound
+
+Exercise 100: MIDI MIDI-Triggered Sample-based Synthesis
+- Learn about sample-based synthesis techniques that involve triggering and manipulating samples within a synthesizer, granulator, or sampler using MIDI data
+- Incorporate MIDI-triggered sample-based synthesis in your IDM compositions, utilizing creative sound design and processing to generate unique and innovative textures or patterns
+- Reflect on the potential and challenges of using MIDI-triggered sample-based synthesis in IDM music production and the creative possibilities it offers for expanding your sonic palette
+
+Continuously exploring these exercises and pushing the boundaries of your established methods in MIDI programming and editing will help you strengthen your skills within IDM music production. Keep delving into uncharted territory, experimenting with new ideas, and growing as a music producer, embracing the creative process at every step.

@@ -1,0 +1,51 @@
+Exercise 71: MIDI Ornaments and Articulation Techniques
+- Research different types of musical ornaments and articulations, such as trills, grace notes, staccato, and legato
+- Incorporate various ornaments and articulation techniques into your IDM compositions, using MIDI programming to create expressive melodic and rhythmic patterns
+- Examine how implementing ornaments and articulation techniques can enhance the musicality and expressiveness of your IDM productions
+
+Exercise 72: MIDI Noise-based Synthesis and Composition
+- Study the concept of noise-based synthesis techniques, such as granular, spectral, or sample-based synthesis, that utilize various forms of noise as sound sources
+- Create IDM compositions using noise-based synthesis methods, generating unique and experimental textures, harmonic structures, or rhythmic patterns
+- Reflect on the role of noise-based synthesis in IDM music production and how it contributes to the genre's experimental and boundary-pushing identity
+
+Exercise 73: MIDI Generative Melodic Techniques
+- Explore generative techniques for creating melodic patterns in IDM, such as rule-based systems, algorithms, or probability-based note selection
+- Implement generative melodic techniques in your IDM compositions, developing engaging, evolving, or unpredictable melodic lines and sequences
+- Evaluate the potential of generative melodic techniques in IDM composition and consider how they can fuel inspiration and creative exploration
+
+Exercise 74: MIDI Breakbeat Programming and Manipulation
+- Learn about breakbeats and their origins in music, as well as various techniques for manipulating them in MIDI programming and processing
+- Create IDM compositions featuring breakbeat elements, experimenting with MIDI programming techniques, such as slice rearrangement, time-stretching, or layering
+- Analyze the impact of breakbeat programming and manipulation on the rhythmic complexity and overall character of your IDM productions
+
+Exercise 75: MIDI Cross-Rhythms and Hemiolas
+- Study the concept of cross-rhythms and hemiolas, which involve multiple concurrent rhythmic structures or the perception of shifting rhythmic emphasis
+- Incorporate cross-rhythms and hemiolas in your IDM compositions, using MIDI programming to create complex rhythmic interplay, tension, and interest
+- Examine how implementing cross-rhythms and hemiolas can contribute to IDM's intricate and experimental rhythmic identity
+
+Exercise 76: MIDI Harmonic Overtones and Subharmonic Techniques
+- Learn about harmonic overtones and subharmonic techniques, which involve manipulating the natural harmonic series or generating new frequencies based on lower harmonic relationships
+- Experiment with harmonic overtone and subharmonic techniques in your IDM compositions, using MIDI programming to achieve unique and unconventional tonal structures
+- Reflect on the impact of harmonic overtones and subharmonic techniques on the sonic texture and complexity of your IDM productions
+
+Exercise 77: MIDI Modular Synthesis Integration
+- Explore the integration of modular synthesis systems with MIDI, either through hardware or software modular synthesizers, to expand the scope of your IDM production capabilities
+- Implement modular synthesis techniques in your IDM compositions, creating innovative sound designs, complex modulation networks, and experimental signal flows
+- Assess the potential benefits and challenges of incorporating modular synthesis into your IDM workflow and consider how this integration enhances your creative process
+
+Exercise 78: MIDI Drone Techniques
+- Investigate the concept of drones, which involve sustained and continuous tones, and their application in IDM compositions for creating atmospheric or textural backdrops
+- Create IDM compositions featuring drone elements, using MIDI programming to develop layered, evolving, or modulating drone textures
+- Explore the role of drones in IDM music, and analyze how they contribute to the overall sound and atmosphere of your compositions
+
+Exercise 79: MIDI Pitch-Class Set Theory Applications
+- Study pitch-class set theory, a method for organizing and analyzing pitches in music, and explore potential applications within IDM composition
+- Construct IDM compositions using MIDI programming techniques based on pitch-class set theory, generating unique and unconventional melodic and harmonic structures
+- Reflect on the creative potential of pitch-class set theory in IDM music production, and evaluate its impact on your compositional process and aesthetic
+
+Exercise 80: MIDI Delay and Echo Techniques for Generation and Manipulation
+- Investigate various delay and echo effects and techniques for MIDI programming and processing, such as rhythmic delays, pitch-shifting echoes, or feedback modulation
+- Apply delay and echo techniques to your IDM compositions, creatively experimenting with the generation or manipulation of MIDI patterns and textures
+- Assess the impact of MIDI delay and echo techniques on your IDM productions, and consider how they contribute to the genre's experimental and atmospheric nature
+
+Continuing to diversify and challenge yourself with these exercises will further expand your MIDI programming and editing skills, enabling you to develop an innovative and unique approach to IDM music production. Keep pushing your boundaries, exploring new possibilities, and evolving as an artist through experimentation and practice.

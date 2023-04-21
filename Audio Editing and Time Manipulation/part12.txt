@@ -1,0 +1,26 @@
+Exercise 81: Creative Use of Routing and Signal Flow in Audio Editing
+- Import multiple audio tracks, such as drums, bass, and synths, into your DAW and create a custom routing and signal flow structure (e.g., parallel processing chains, sends and returns, or sidechain setups)
+- Explore various routing possibilities that can lead to unique audio processing techniques, effects, or dynamic interactions between the audio elements
+- Reflect on the creative potential and workflow enhancements offered by custom routing and signal flow management in audio editing and music production
+
+Exercise 82: Compositional Editing Techniques
+- Import audio tracks or stems featuring various musical elements (e.g., melodies, harmonies, and rhythms) into your DAW
+- Use audio editing techniques to create a new composition by rearranging, layering, and processing the audio elements in creative ways
+- Analyze the impact of audio editing on the compositional process and appreciate how audio manipulation can lead to new musical ideas and structures
+
+Exercise 83: Dynamic Panning Techniques for Audio Editing
+- Load an audio file into your DAW, such as a musical loop or sound effect
+- Apply dynamic panning techniques using automation, LFO modulation, or other motion-generating tools to create spatial animation within the stereo field
+- Evaluate the effectiveness of dynamic panning techniques in enhancing the audio's spatial interest, depth, and energy
+
+Exercise 84: Using Convolution to Fuse Audio Elements
+- Import an audio file, such as a synthesizer pad or a vocal recording, into your DAW
+- Apply convolution processing using an impulse response that's derived from a different audio source, such as a drum loop or a spoken word recording, to create a unique and engaging fusion of the two audio elements
+- Assess the creative possibilities and sonic transformations offered by using convolution to combine distinct audio elements in novel ways
+
+Exercise 85: Real-time Audio Manipulation with Gesture Control Devices
+- Set up a gesture control device, such as a Leap Motion or smartphone-based controller, to map hand movements or other physical gestures to audio parameters in your DAW
+- Design and implement an interactive performance system that allows you to manipulate audio files in real-time using your gestures, creating an engaging and expressive control experience
+- Reflect on the potential applications of gesture-controlled audio manipulation in live performance or creative exploration and consider how to refine and expand such systems for unique musical experiences
+
+Continuing to practice these additional exercises will further enhance your skills in audio editing and time manipulation. Keep exploring new techniques, tools, and ideas to expand your expertise in audio production. Stay inspired, and enjoy the creative journey!

@@ -1,0 +1,51 @@
+Exercise 81: MIDI Aleatoric Composition Techniques
+- Research aleatoric composition techniques, which involve using chance or indeterminacy to determine certain aspects of a musical piece
+- Create IDM compositions using aleatoric techniques in your MIDI programming, embracing randomness and unpredictability as sources of creativity and inspiration
+- Reflect on the role of aleatoric methods in IDM music production and consider how they can push the boundaries of conventional composition
+
+Exercise 82: MIDI Counterpoint Techniques in IDM
+- Study the principles of counterpoint, a compositional technique that emphasizes the interaction between individual melodic lines or voices
+- Apply counterpoint techniques to your IDM compositions, creating complex melodic and harmonic relationships between multiple MIDI tracks or instruments
+- Examine how the use of counterpoint can enhance the intricacy, depth, and overall structure of your IDM productions
+
+Exercise 83: MIDI Harmonic Ambiguity Techniques
+- Explore techniques for creating harmonic ambiguity in music, such as the use of non-functional harmony or unresolved chord progressions
+- Implement harmonic ambiguity in your IDM compositions using MIDI programming, challenging traditional harmonic structures and frameworks
+- Analyze the impact of harmonic ambiguity on your IDM compositions and consider how these techniques contribute to the genre's experimental nature
+
+Exercise 84: MIDI Micro-Gestures
+- Learn about micro-gestures, which are very small, intricate, or rapid movements in music, often used to create delicate or subtle effects
+- Apply micro-gesture techniques within your IDM compositions using MIDI programming, emphasizing detailed articulations, rapid rhythmic shifts, or minute parameter changes
+- Reflect on the role of micro-gestures in IDM and how they contribute to the genre's characteristic complexity, intricacy, and subtlety
+
+Exercise 85: MIDI Octave Displacement Techniques
+- Investigate the concept of octave displacement, which involves shifting notes or sequences into different octaves to create new melodic or harmonic structures
+- Create IDM compositions using octave displacement techniques in your MIDI programming, rearranging and recontextualizing existing patterns or melodies
+- Examine the impact of octave displacement on your IDM productions and how it can transform the dynamic and tonal qualities of your music
+
+Exercise 86: MIDI Algorithmic Drum Programming
+- Study algorithmic drum programming techniques, such as using mathematically derived patterns or probability-based triggers to generate rhythmic sequences
+- Incorporate algorithmic drum programming into your IDM compositions, exploring various techniques and approaches to create unconventional drum patterns
+- Evaluate the potential of algorithmic drum programming in IDM music production and consider how these techniques can stimulate creativity and diversify your rhythmic toolbox
+
+Exercise 87: MIDI Sidechain Techniques for Creative Effects
+- Learn about sidechain techniques for creative MIDI effects, such as using MIDI triggers to dynamically alter parameters on other tracks or automate effects in real-time
+- Apply creative sidechain techniques within your IDM compositions, experimenting with the interaction between MIDI-triggered events and other elements in the mix
+- Explore the potential of creative sidechain techniques to enhance the complexity, interactivity, and overall interest of your IDM productions
+
+Exercise 88: MIDI Unconventional Arpeggiator Patterns
+- Study non-traditional arpeggiator patterns, such as less common rhythmic subdivisions, irregular step patterns, or incorporating ornamentations into the arpeggiation
+- Implement unconventional arpeggiator patterns in your IDM compositions, using MIDI programming techniques to create unexpected melodic, harmonic, or rhythmic textures
+- Analyze the impact of unconventional arpeggiator patterns on your IDM compositions and the ways they contribute to the genre's experimental and innovative spirit
+
+Exercise 89: MIDI Microtonal Techniques for IDM
+- Investigate the use of microtonal techniques in IDM, exploring alternative tuning systems, non-equal tempered scales, or other non-standard pitch relationships
+- Create IDM compositions using microtonal techniques in your MIDI programming, expanding your compositional palette and exploring new tonal possibilities
+- Reflect on the potential of microtonal techniques in IDM and how they can introduce new dimensions of experimentation and novelty into your productions
+
+Exercise 90: MIDI MIDI Poly-Metric Rhythm Techniques
+- Study poly-metric rhythm techniques, which involve the simultaneous use of multiple time signatures or meters within a musical composition
+- Apply poly-metric rhythm techniques in your IDM compositions, using MIDI programming to develop intricate rhythmic patterns, interwoven meters, or shifting time signatures
+- Analyze the impact of poly-metric rhythm techniques on your IDM compositions and consider how they contribute to the genre's complexity and rhythmic innovation
+
+By persistently working through these exercises and challenging your established methods, you will continue to develop a robust, versatile skillset in MIDI programming and editing that can shape your innovative approach to IDM music production. Keep exploring, experimenting, and evolving as a music producer, and enjoy the creative process every step of the way.

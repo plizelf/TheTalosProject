@@ -1,0 +1,49 @@
+Exercise 6: Audio Chopping and Rearranging
+- Import an audio file, such as a drum or melodic loop, into your DAW
+- Chop the audio file into smaller segments at different time positions, creating unique slices or sections
+- Rearrange the chopped segments to create a different pattern or groove; consider layering some segments or even applying time-stretching or pitch-shifting to add variation
+
+Exercise 7: Audio Warping and Quantization
+- Load an audio loop or recording into your DAW and analyze its timing and transient information
+- Use audio warping or quantization tools to correct timing discrepancies or conform the audio’s rhythm to a chosen tempo or grid
+- Experiment with various grid resolutions and swing settings, ensuring that the audio feels natural and retains its original character
+
+Exercise 8: Applying Effects to Audio Clips
+- Import an audio file, such as a vocal, drum loop, or melodic phrase, into your DAW
+- Apply various effects, such as EQ, reverb, compression, or modulation, to enhance the audio's tone or create new textures
+- Experiment with different effect settings, adjusting parameters to achieve the desired sound while maintaining the audio's clarity and balance
+
+Exercise 9: Creating Soundscapes and Ambiences with Audio Layers
+- Gather and import several audio files, such as field recordings, ambient textures, or atmospheric pads, into your DAW
+- Layer and arrange the audio files, adjusting volume levels and panning to create a cohesive and immersive soundscape or atmosphere
+- Apply effects and processing techniques like EQ, reverb, or spatial enhancers to further blend the layers and add depth to the combined audio
+
+Exercise 10: Audio Editing for Seamless Loops
+- Import a sample or sound effect into your DAW, and edit it to create a loopable audio file with no audible gaps or clicks at the start and end points
+- Use trimming, crossfading, or other audio editing techniques to ensure that the loop plays seamlessly when repeated
+- Evaluate the quality of your seamless loops by placing them in a repeating sequence, and listen for any artifacts or inconsistencies as the loop cycles
+
+Exercise 11: Audio Stutter and Glitch Effects
+- Load an audio file into your DAW, such as a vocal, drum loop, or synth line
+- Apply stutter and glitch effects, either manually (by editing the audio in the timeline) or using dedicated effects plugins
+- Reflect on the impact of utilising stutter and glitch effects within your project and how these can contribute to the desired style or atmosphere
+
+Exercise 12: Audio Sample Editing and Manipulation
+- Import a sampled instrument recording or sound effect into your DAW, and perform detailed editing to isolate specific sounds, remove artifacts, or correct pitch and timing issues
+- Experiment with advanced editing tools like spectral editing, granular synthesis, or multi-band processing to further manipulate the sample
+- Assess how these sample editing techniques influence the end result, emphasizing the balance between creative processing and maintaining the sample's natural qualities
+
+Exercise 13: Audio to MIDI Conversion
+- Analyze an audio file in your DAW that contains melodic or harmonic content (e.g., a piano or vocal line), and convert it into MIDI data using your DAW's built-in audio-to-MIDI feature or a third-party plugin
+- Edit and refine the resulting MIDI data, correcting any errors and optimizing it for use with a software instrument or virtual instrument
+- Use the generated MIDI data to compose new arrangements or as a starting point for your own original compositions
+
+Exercise 14: Audio Layering and Texturing Techniques
+- Collect several audio files with various textures or instrument sounds, and import them into your DAW
+- Layer the audio files and use volume, panning, and equalization adjustments to create a rich, detailed, and balanced mix
+- Apply creative effects like modulation, granular synthesis, or distortion to enhance the layered audio further and create unique sonic textures
+
+Exercise 15: Audio-source Manipulation with Granular Synthesis
+- Load an audio file into a granular synthesis plugin or a tool within your DAW that supports granular synthesis
+- Transform the audio into a new texture or timbre by manipulating the granular synthesis parameters, such as grain size, density, position, or panning
+- Reflect on how granular synthesis can be used effectively in a range of musical contexts and contribute to innovative sound design or timbral variety

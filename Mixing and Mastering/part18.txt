@@ -1,0 +1,26 @@
+88: Headroom management in mixing
+- Understand the importance of headroom management during the mixing process, ensuring appropriate levels for the individual tracks, group buses, and mix bus
+- Practice techniques such as gain staging, proper fader balance, and the use of gain reduction meters to maintain ideal headroom throughout the mix
+- Evaluate the impact of proper headroom management on the overall mix clarity, dynamic range, and subsequent mastering process
+
+89: Mixing with algorithmic and convolution reverbs
+- Experiment with both algorithmic and convolution reverbs to create a diverse range of spatial effects in your mix
+- Understand the specific benefits and characteristics of each reverb type and choose the appropriate option based on the desired sound and context
+- Learn to control and shape the tonal aspects of your reverbs, tailoring them to enhance the mix without overpowering or masking key elements
+
+90: Precision transient control in mixing
+- Master precision transient control techniques, such as transient shaping plugins, clip gain editing, or compression with fast attack and release times
+- Apply these techniques to various mix elements, like drums, guitars, or vocals, to manage transients, enhance clarity, and achieve a tight and controlled sound
+- Balance the degree of transient control with the preservation of natural dynamics and expressiveness in the mix
+
+91: Mixing in surround and immersive audio formats
+- Explore mixing in multi-channel surround formats, such as 5.1 or 7.1, as well as object-based immersive audio formats like Dolby Atmos or Auro-3D
+- Distribute audio elements across the surround sound field, creating immersive and engaging listening experiences
+- Familiarize yourself with the technical and creative requirements for mixing in different surround and immersive audio formats and optimize your mix for each specific distribution platform
+
+92: Using advanced metering tools to inform mixing decisions
+- Learn and utilize advanced metering tools, such as frequency analysis, loudness meters, phase correlation meters, or stereo imaging meters
+- Use the information provided by these metering tools to make informed decisions regarding EQ, dynamics, stereo imaging, and other aspects of the mix
+- Develop the ability to balance the reliance on metering tools with trusting your ears and instincts for well-rounded mixing decisions
+
+Continuing to work through advanced exercises, you'll further explore and refine your abilities across various mixing and mastering techniques, whether it's headroom management, reverb types, transient control, surround sound mixing, or using advanced metering tools. As you consistently practice and embrace challenges, your skills and experience will grow, enabling you to tackle even more sophisticated mixing and mastering projects, adapt to diverse musical scenarios, and deliver high-quality audio productions. Enjoy the journey, stay curious, and persist in your exploration of the ever-evolving world of mixing and mastering.
