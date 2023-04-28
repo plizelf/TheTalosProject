@@ -1,0 +1,33 @@
+Sure, here are even more automation exercises to broaden your creativity and deepen your skill set:
+
+* Exercise 13: Automate LFO rate and depth
+  - Create a melody, chord progression, or bassline using a virtual instrument or a sample
+  - Apply an LFO to a parameter of the sound, such as filter cutoff, modulation, or pan
+  - Automate the LFO rate and depth to create variety and movement in the timbre, rhythm, or stereo field
+  - Experiment with different LFO shapes, target parameters, and automation curves
+
+* Exercise 14: Automate spatial effects
+  - Choose an element of your project, such as a melody, synth pad, or sound effect
+  - Apply a spatial effect, like a reverb or a stereo widener, to the sound
+  - Automate parameters of the effect, such as the room size, reverb decay, or the stereo width, to create an evolving sense of space over time
+  - Explore different spatial effects, parameter combinations, and automation settings to create depth and dimension in your mix
+
+* Exercise 15: Automate pitch shifting and time stretching
+  - Create a melodic or rhythmic element using a sample or virtual instrument
+  - Apply pitch-shifting or time-stretching effects to change the pitch or timing of the element
+  - Automate the pitch or timing changes for a unique, morphing effect throughout the project
+  - Experiment with varying degrees of pitch shifting and time stretching and combine them with other effects for interesting results
+
+* Exercise 16: Automate creative stutter and glitch effects
+  - Choose an element of your project you'd like to alter, such as a melody, drum loop, or vocal
+  - Apply a stutter, glitch, or granular effect to break up and manipulate the sound
+  - Automate various parameters of the effect to create evolving, intricate stutter patterns and textures
+  - Explore different styles of glitch effects, combining them with other automations, and applying them to various elements in your project
+
+* Exercise 17: Automate macro controls
+  - Create or use an instrument or effect rack with multiple parameters in your DAW
+  - Map multiple parameters to a single macro control
+  - Automate the macro control to control all mapped parameters simultaneously throughout your project
+  - Experiment with various parameter combinations, macro settings, and automation curves for a powerful, expressive control over your sound
+
+These automation exercises continue to build upon your knowledge and creativity, exploring various techniques for adding depth, movement, and experimentation to your music production. Keep practicing, exploring new ideas, and applying these techniques to different aspects of your projects for continuous growth and development as a music producer.

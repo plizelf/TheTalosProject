@@ -1,0 +1,31 @@
+Absolutely! Here are more automation exercises to further enhance your skills and spark your creativity:
+
+* Exercise 18: Automate multi-effects with chains
+  - Set up an effects chain or bring up a multi-effects processor in your DAW
+  - Apply multiple effects to an element in your project and set the effects chain order
+  - Automate parameters for each effect in the chain to create unique, evolving soundscapes or textures
+  - Experiment with manipulating the order of the effects chain and how automations interact to produce distinct sound combinations
+
+* Exercise 19: Automate sidechain triggers
+  - Set up sidechain compression or sidechain-style modulation using volume envelopes or LFOs on an element in your project, like a pad or bassline
+  - Choose a new trigger source that varies over time, such as a rhythmic or melodic element
+  - Automate the sidechain trigger source to change the responsiveness and character of the sidechain effect throughout the project
+  - Experiment with different trigger sources and automation settings to create unique rhythmic and dynamic interactions
+
+* Exercise 20: Automate different loop sections
+  - Create several distinct sections or loops in your project (e.g., intro, verse, chorus)
+  - Apply different automation curves and parameters to each section to create unique effects and transitions
+  - Experiment with automating parameters like tempo, filter sweeps, or effects sends to enhance the contrast between each section of your project
+    
+* Exercise 21: Automate pitch in drum patterns and percussion
+  - Create a drum pattern or percussion loop with multiple elements (kick, snare, hi-hats, etc.)
+  - Automate the pitch of individual drum hits or percussion elements within your pattern to create variation and tonal interest
+  - Experiment with subtle pitch alterations for a more natural feel or dramatic pitch changes for creative and unexpected results
+    
+* Exercise 22: Automate multiple parameters simultaneously for expressive performances
+  - Choose an element in your project, such as a lead melody or solo instrument
+  - Identify multiple parameters that influence the expression or articulation of the sound (e.g., filter cutoff, pitch bend, vibrato, volume)
+  - Automate these parameters simultaneously to create a dynamic and expressive performance that evolves over time
+  - Explore different parameter combinations, automation shapes, and instrument settings to bring more emotion and life to your music
+
+These additional automation exercises explore broader aspects of automation usage in music production, including multi-effects chains, sidechain triggers, loop sections, pitch changes, and expressive performance enhancements. Continue to experiment with various automation techniques and applications, adapting them to an array of elements in your projects for ongoing growth and creativity as a music producer.

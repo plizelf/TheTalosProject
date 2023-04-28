@@ -1,0 +1,32 @@
+Certainly! Here are additional automation exercises to further improve your skills and enhance your creativity:
+
+* Exercise 8: Rhythm-based automation
+  - Create a drum loop, melodic pattern, or chord progression
+  - Apply an effect, such as a tremolo, auto-pan or gated reverb, to the sound
+  - Automate the effect's rate, depth, or other parameters to create rhythmic variations that sync with or complement the pattern you created
+  - Experiment with different effect combinations and automation shapes to add texture and rhythm to your music
+
+* Exercise 9: Advanced filter automation for transitions
+  - Create a build-up or breakdown section within your project
+  - Apply a filter effect to a group of tracks or the entire mix (e.g., low-pass, high-pass, or band-pass filter)
+  - Automate the filter frequency cutoff and resonance to create a dynamic transition effect for your build-up or breakdown
+  - Experiment with automation shapes, and filter types to create unique and engaging transitions
+
+* Exercise 10: Automating send effects
+  - Set up a send effect, such as a reverb or delay, in your DAW
+  - Route an element, such as a drum hit, melody, or vocal, in your project to the send effect channel
+  - Automate the send level to create variations in the amount of effect applied to the sound source throughout your project
+  - Experiment with different send effects and automation shapes to enhance your mix
+
+* Exercise 11: Automate quantization and swing
+  - Create a drum loop, melodic pattern, or chord progression
+  - Apply a groove quantization or swing effect in your DAW to the pattern
+  - Automate the groove amount, strength, or other relevant parameters to create rhythmic variations and changes in the feel of your pattern throughout the project
+  - Explore different groove templates and automation settings to add variety and groove to your music
+
+* Exercise 12: Automate loop lengths for creative variations
+  - Create a pattern, sample or instrument loop in your project
+  - Automate the loop length or loop point positions within your DAW to create variations in the pattern or sample playback
+  - Experiment with different loop lengths, loop offsets, and automation shapes for surprising and unconventional variations in your music
+
+These exercises will continue to expand your knowledge and skills in using automations, exploring different applications to enhance your music creation process. Keep practicing and experiment with new ideas to discover unique approaches and further develop creativity in your music production.

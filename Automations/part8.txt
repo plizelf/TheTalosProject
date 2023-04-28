@@ -1,0 +1,28 @@
+Sure! Here are even more automation exercises to support your ongoing growth as a music producer and enhance your creative possibilities:
+
+* Exercise 38: Automate sample start and end points
+  - Import a longer audio sample, such as a field recording, texture, or spoken word, into your project
+  - Automate the sample's start and end points within the clip to isolate and expose different sections of the audio over time
+  - Experiment with different automation shapes, loop modes, and sample selections to create unique audio segments, textures, or rhythmic patterns
+
+* Exercise 39: Automate step sequencer parameters
+  - Use a step sequencer to create a melody, bassline, or drum pattern
+  - Automate parameters within the step sequencer, such as step probabilities, velocity, or swing, to generate dynamic and evolving patterns throughout your project
+  - Experiment with different step sequencer settings, parameter automations, and pattern lengths to create intriguing and unpredictable sequences
+
+* Exercise 40: Automate glitch effect intensities and timings
+  - Apply a glitch effect, like a buffer, stutter, or repeat effect, to an element in your project (e.g., a drum loop, melody, or vocal)
+  - Automate the glitch effect's intensity and timing parameters to adjust the occurrences and the character of glitches throughout the project
+  - Experiment with different glitch effect settings, automation shapes, and layered effects to generate interesting sonic disruptions and variations
+
+* Exercise 41: Automate modulation sources and routings
+  - Create a sound using a virtual instrument or effect with multiple modulation sources (e.g., LFOs, envelopes, or sequencers)
+  - Automate the modulation source parameters (e.g., LFO rate, envelope attack, or sequencer pattern) and routing assignments (e.g., filter cutoff or resonance) to change the modulation behavior and intensity of the sound
+  - Experiment with various modulation sources, routings, and automation shapes to create expressive and evolving sounds, textures, or rhythmic elements
+
+* Exercise 42: Automate granular synthesis parameters
+  - Use a granular synthesizer or effect to manipulate a sample, instrument, or ambient sound
+  - Automate key parameters within the granular synthesis engine, such as grain size, density, pitch, or position, to create complex and evolving soundscapes over time
+  - Experiment with different granular synthesis settings, automation shapes, and combinations to explore new sonic territories and textures
+
+These further automation exercises delve into advanced and specialized techniques that can add depth, texture, and complexity to your music production. Continuously practice, experiment, and combine these exercises with your existing knowledge to unlock new creative potential and refine your skills as a music producer.

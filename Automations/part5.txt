@@ -1,0 +1,32 @@
+Certainly! Here are more automation exercises to further develop your skills and encourage creative experimentation:
+
+* Exercise 23: Automate arpeggiator parameters
+  - Create a chord progression using a virtual instrument or sample
+  - Apply an arpeggiator effect to the instrument or sample and set the basic arpeggiation settings (e.g., rate, direction, range)
+  - Automate parameters within the arpeggiator effect, such as rate, gate, or pattern, to create dynamic and evolving arpeggiated sequences
+  - Experiment with different automation shapes, arpeggiator settings, and instrument patches to explore new creative possibilities
+
+* Exercise 24: Automate stereo imaging and spatialization
+  - Choose an element in your project that would benefit from spatial enhancement, such as pads, vocals, or sound effects
+  - Apply a stereo imaging or spatialization plugin to the element and adjust the initial settings
+  - Automate parameters within the plugin, such as width, depth, or panning, to create a sense of space and movement in the stereo field over time
+  - Explore different spatialization techniques, plugin settings, and automation shapes to create immersive soundscapes and sonic environments
+
+* Exercise 25: Automate MIDI note properties
+  - Create a melody, chord progression or bassline using a virtual instrument or MIDI device
+  - Automate MIDI note properties like velocity, articulation, or duration to add nuance and expressiveness to your MIDI performance
+  - Experiment with different automation shapes, MIDI controllers and instrument settings to create dynamic melodic and harmonic parts with evolving characteristics
+
+* Exercise 26: Automate follow actions in a live performance setup
+  - If your DAW allows, set up a live performance scenario using audio, MIDI, or instrument clips in a grid or scene-based layout
+  - Configure follow actions or clip launch settings to create potential variations and transitions between the clips during the performance
+  - Automate the follow action or launch settings, such as scene or clip triggering, to produce a dynamic and evolving performance
+  - Explore different follow action settings, clip combinations, and automation settings to craft an engaging and interactive live performance
+
+* Exercise 27: Automate instrument switching within a track
+  - Create a track with multiple virtual instruments, samples or audio clips, each with its unique sound or timbre
+  - Automate the instrument or sample switching on the track, so that different parts of your project use different instruments or samples
+  - Experiment with blending sounds or layering them using crossfades or other automations, creating unique textures and sonic variations in your project
+  - Explore different combinations of instruments, samples, and automation settings to enhace your music's tonal palette and diversity
+
+By practicing these automation exercises, you will explore more aspects of music production, learn to create unique sounds and sequences, and develop more control over your projects. Keep experimenting and applying new automation techniques to different elements in your music for continued growth and development as a producer.
