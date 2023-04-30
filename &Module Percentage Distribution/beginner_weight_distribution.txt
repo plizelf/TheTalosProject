@@ -1,0 +1,29 @@
+As a beginner aiming to create IDM/experimental alien-like music, here's a suggested weight distribution for the various aspects of music production:
+
+1. Beats (20%): Rhythm is key in IDM, so focusing on unique and experimental beats will help define your sound. Learn to create irregular and complex rhythms using unconventional drum sounds.
+
+2. Sound Design (20%): Much of IDM's experimental quality comes from the use of non-traditional sounds and textures. Dive into synthesis, sampling, and granular techniques to create distinctive and alien-like timbres.
+
+3. Generative and Algorithmic Composition (15%): Learn about generative methods and tools to create music with an unusual and complex structure, which is a highlight of IDM.
+
+4. Audio Editing and Time Manipulation (10%): Mastering these techniques will allow you to create glitchy, morphing parts and provide a lot of creative freedom in manipulating individual sounds and entire tracks.
+
+5. Automations (10%): Using automations in your music can add more dynamics and movement to your tracks. Focus on automating various effect parameters and device controls for interesting variations.
+
+6. Melodies (5%): Although IDM may not always be heavily melodic, understanding how to create simple, yet captivating melodies or motifs can enhance your tracks.
+
+7. Basslines (5%): Experiment with unconventional bass patterns and sounds to add depth and character to your compositions.
+
+8. Chords (5%): While IDM may not always rely on traditional harmony, knowing basic chord structures and progressions can help provide unique atmospheres or interesting dissonances.
+
+9. MIDI Programming and Editing (5%): Familiarize yourself with MIDI editing to create intricate patterns and have more control over your compositions.
+
+10. Song Structure (3%): Study various song structures in IDM, and experiment with different arrangements and unconventional forms.
+
+11. Mixing and Mastering (1%): While not the highest priority for a beginner, developing basic mixing and mastering skills ensures your tracks sound balanced and professional.
+
+12. Notes and Scales (1%): Understand basic musical theory, but don't be limited by it. IDM often explores unconventional scales and tonalities.
+
+13. Mindset (0% - Integral): Maintaining a curious, experimental mindset throughout your music-making journey is crucial for creating IDM. Constantly learn, explore, and have fun experimenting with different techniques.
+
+While these weight distributions are suggested, be aware that every producer's journey is unique. As you gain experience, you may find certain aspects more important to your personal style and workflow. Remember that even the most unusual skills or techniques can be useful and add to your production arsenal. Always be open to learning and expanding your knowledge.

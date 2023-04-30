@@ -1,5 +1,3 @@
-
-
 Exercise 1: Basic Audio Editing Functions
 - Import an audio file (e.g., drum loop, melody, or vocal) into your DAW
 - Familiarize yourself with basic audio editing functions, such as cut, copy, paste, trim, and fade
