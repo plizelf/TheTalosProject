@@ -1,8 +1,3 @@
-I apologize for the misunderstanding. Sure, let's create a new Automations chapter with exercises that gradually build up on each other, similar to the Beats example:
-
----
-## Automations
-
 * Exercise 1: Basic automation for volume changes
   - Create a simple drum pattern, a melody, or a chord progression
   - Automate the volume of a track or individual elements (i.e., instrument, sample) to fade in and out

@@ -5,6 +5,7 @@ The Talos Project is a gamified, hands-on curriculum designed to teach the skill
 ## Exercise Modules
 
 - Audio Editing and Time Manipulation
+- Automations
 - Basslines
 - Beats
 - Chords
@@ -15,6 +16,7 @@ The Talos Project is a gamified, hands-on curriculum designed to teach the skill
 - Mixing and Mastering
 - Notes and Scales
 - Song Structure
+
 
 The modules were inspired and extended by [Ableton's interactive music making resource](https://learningmusic.ableton.com/) and extended by what GPT-4 thought was missing (it did mention Sound Design that I forgot to include).
 
